@@ -66,5 +66,4 @@ void TareaC(void* pvParameter) {
 		taskEXIT_CRITICAL ( );
 
    }
-	vTaskDelete(NULL);
 }
